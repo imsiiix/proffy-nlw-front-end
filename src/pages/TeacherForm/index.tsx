@@ -104,7 +104,7 @@ function TeacherForm() {
                                 { value: 'Geografia', label: 'Geografia' },
                                 { value: 'História', label: 'História' },
                                 { value: 'Matemática', label: 'Matemática' },
-                                { value: 'Portugues', label: 'Portugues' },
+                                { value: 'Português', label: 'Português' },
                                 { value: 'Química', label: 'Química' },
                             ]} />
 
